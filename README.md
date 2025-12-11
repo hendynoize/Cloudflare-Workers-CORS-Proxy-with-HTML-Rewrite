@@ -6,6 +6,7 @@
 
 Proyek ini adalah **reverse proxy berbasis Cloudflare Workers** yang mampu:
 
+✔ Solusi untuk membuka website yang diblokir ISP, pemerintah atau jaringan
 ✔ Mem-bypass CORS
 ✔ Menjadi proxy penuh untuk website lain
 ✔ Rewrite teks dalam halaman
